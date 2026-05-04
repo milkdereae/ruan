@@ -1,0 +1,190 @@
+/**
+ * 刷题小程序 - 主题变量配置
+ * 用于 uView Plus UI 主题定制
+ */
+.user-container.data-v-0f7520f0 {
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+.user-card.data-v-0f7520f0 {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  padding: 60rpx 40rpx 40rpx;
+}
+.user-card .user-info.data-v-0f7520f0 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 40rpx;
+}
+.user-card .user-info .avatar-wrapper.data-v-0f7520f0 {
+  position: relative;
+  margin-right: 30rpx;
+}
+.user-card .user-info .avatar-wrapper .user-avatar.data-v-0f7520f0 {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 50%;
+  border: 4rpx solid rgba(255, 255, 255, 0.3);
+}
+.user-card .user-info .avatar-wrapper .vip-badge.data-v-0f7520f0 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background: #ffad14;
+  color: #fff;
+  font-size: 18rpx;
+  padding: 4rpx 12rpx;
+  border-radius: 12rpx;
+  border: 2rpx solid #fff;
+}
+.user-card .user-info .user-detail .user-name.data-v-0f7520f0 {
+  display: block;
+  font-size: 40rpx;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 12rpx;
+}
+.user-card .user-info .user-detail .user-email.data-v-0f7520f0, .user-card .user-info .user-detail .user-level.data-v-0f7520f0 {
+  display: block;
+  font-size: 26rpx;
+  color: rgba(255, 255, 255, 0.8);
+}
+.user-card .user-stats.data-v-0f7520f0 {
+  display: flex;
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16rpx;
+  padding: 30rpx 20rpx;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+}
+.user-card .user-stats .stat-item.data-v-0f7520f0 {
+  flex: 1;
+  text-align: center;
+}
+.user-card .user-stats .stat-item .stat-num.data-v-0f7520f0 {
+  display: block;
+  font-size: 36rpx;
+  color: #fff;
+  font-weight: bold;
+  margin-bottom: 8rpx;
+}
+.user-card .user-stats .stat-item .stat-label.data-v-0f7520f0 {
+  display: block;
+  font-size: 24rpx;
+  color: rgba(255, 255, 255, 0.8);
+}
+.user-card .login-tip.data-v-0f7520f0 {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 16rpx;
+  padding: 40rpx;
+  text-align: center;
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+}
+.user-card .login-tip .tip-text.data-v-0f7520f0 {
+  display: block;
+  font-size: 28rpx;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 24rpx;
+}
+.user-card .login-tip .login-btn.data-v-0f7520f0 {
+  display: inline-block;
+  background: #fff;
+  color: #667eea;
+  font-size: 28rpx;
+  padding: 16rpx 50rpx;
+  border-radius: 30rpx;
+}
+.user-card .login-tip .login-btn.data-v-0f7520f0::after {
+  border: none;
+}
+.menu-section.data-v-0f7520f0 {
+  padding: 20rpx;
+}
+.menu-section .menu-group.data-v-0f7520f0 {
+  background: #fff;
+  border-radius: 16rpx;
+  margin-bottom: 20rpx;
+  overflow: hidden;
+}
+.menu-section .menu-group .group-title.data-v-0f7520f0 {
+  font-size: 26rpx;
+  color: #999;
+  padding: 24rpx 30rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+}
+.menu-section .menu-group .menu-list .menu-item.data-v-0f7520f0 {
+  display: flex;
+  align-items: center;
+  padding: 28rpx 30rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+}
+.menu-section .menu-group .menu-list .menu-item.data-v-0f7520f0:last-child {
+  border-bottom: none;
+}
+.menu-section .menu-group .menu-list .menu-item.data-v-0f7520f0:active {
+  background: #f9f9f9;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.data-v-0f7520f0 {
+  width: 56rpx;
+  height: 56rpx;
+  border-radius: 12rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 20rpx;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.wrong-icon.data-v-0f7520f0 {
+  background: #ffebee;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.fav-icon.data-v-0f7520f0 {
+  background: #fff7e6;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.history-icon.data-v-0f7520f0 {
+  background: #e3f2fd;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.setting-icon.data-v-0f7520f0 {
+  background: #f3e5f5;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.cache-icon.data-v-0f7520f0 {
+  background: #e8f5e9;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.update-icon.data-v-0f7520f0 {
+  background: #e0f2f1;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon.about-icon.data-v-0f7520f0 {
+  background: #f5f5f5;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-icon .icon-text.data-v-0f7520f0 {
+  font-size: 32rpx;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-text.data-v-0f7520f0 {
+  flex: 1;
+  font-size: 30rpx;
+  color: #333;
+}
+.menu-section .menu-group .menu-list .menu-item .menu-arrow.data-v-0f7520f0 {
+  font-size: 30rpx;
+  color: #ccc;
+}
+.menu-section .menu-group .menu-list .menu-item .cache-size.data-v-0f7520f0, .menu-section .menu-group .menu-list .menu-item .version-text.data-v-0f7520f0 {
+  font-size: 26rpx;
+  color: #999;
+}
+.menu-section .logout-section.data-v-0f7520f0 {
+  padding: 40rpx;
+}
+.menu-section .logout-section .logout-btn.data-v-0f7520f0 {
+  width: 100%;
+  height: 88rpx;
+  line-height: 88rpx;
+  background: #ffebee;
+  color: #f44336;
+  font-size: 30rpx;
+  border-radius: 12rpx;
+}
+.menu-section .logout-section .logout-btn.data-v-0f7520f0::after {
+  border: none;
+}
+.bottom-space.data-v-0f7520f0 {
+  height: 40rpx;
+}

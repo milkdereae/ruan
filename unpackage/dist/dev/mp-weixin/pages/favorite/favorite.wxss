@@ -1,0 +1,50 @@
+/**
+ * 刷题小程序 - 主题变量配置
+ * 用于 uView Plus UI 主题定制
+ */
+.favorite-page.data-v-8850f19c {
+  min-height: 100vh;
+  background: #f5f5f5;
+}
+.header.data-v-8850f19c {
+  padding: 30rpx;
+  background: #fff;
+}
+.header .title.data-v-8850f19c {
+  font-size: 34rpx;
+  font-weight: 600;
+  color: #333;
+}
+.list.data-v-8850f19c {
+  padding: 20rpx 30rpx;
+}
+.item.data-v-8850f19c {
+  background: #fff;
+  padding: 24rpx;
+  border-radius: 16rpx;
+  margin-bottom: 20rpx;
+}
+.item .item-title.data-v-8850f19c {
+  font-size: 28rpx;
+  color: #333;
+}
+.empty.data-v-8850f19c {
+  padding: 60rpx 30rpx;
+  text-align: center;
+}
+.empty .empty-text.data-v-8850f19c {
+  display: block;
+  font-size: 28rpx;
+  color: #999;
+  margin-bottom: 24rpx;
+}
+.empty .login-btn.data-v-8850f19c {
+  display: inline-block;
+  padding: 0 40rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  background: #2979ff;
+  color: #fff;
+  border-radius: 999rpx;
+  font-size: 28rpx;
+}

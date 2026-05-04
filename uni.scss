@@ -1,0 +1,57 @@
+/**
+ * 刷题小程序 - 主题变量配置
+ * 用于 uView Plus UI 主题定制
+ */
+
+// 主色调
+$u-primary: #2979ff;
+$u-primary-dark: #2563eb;
+$u-primary-disabled: #a0cfff;
+$u-primary-light: #ecf5ff;
+
+// 成功色
+$u-success: #19be6b;
+$u-success-dark: #18b566;
+$u-success-disabled: #71d5a1;
+$u-success-light: #dbf1e1;
+
+// 警告色
+$u-warning: #ff9900;
+$u-warning-dark: #f29100;
+$u-warning-disabled: #fcbd71;
+$u-warning-light: #fdf6ec;
+
+// 错误色
+$u-error: #fa3534;
+$u-error-dark: #dd6161;
+$u-error-disabled: #fab6b6;
+$u-error-light: #fef0f0;
+
+// 文字颜色
+$u-main-color: #303133;
+$u-content-color: #606266;
+$u-tips-color: #909399;
+$u-light-color: #c0c4cc;
+
+// 边框颜色
+$u-border-color: #e4e7ed;
+$u-bg-color: #f3f4f6;
+
+// 字体大小
+$u-font-sm: 24rpx;
+$u-font-base: 28rpx;
+$u-font-lg: 32rpx;
+$u-font-xl: 36rpx;
+
+// 间距
+$u-spacing-sm: 16rpx;
+$u-spacing-base: 24rpx;
+$u-spacing-lg: 32rpx;
+
+// 圆角
+$u-border-radius-sm: 8rpx;
+$u-border-radius-base: 12rpx;
+$u-border-radius-lg: 20rpx;
+
+// 阴影
+$u-box-shadow: 0 4rpx 20rpx rgba(0, 0, 0, 0.05);

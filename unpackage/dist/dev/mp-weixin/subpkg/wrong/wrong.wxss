@@ -1,0 +1,165 @@
+/**
+ * 刷题小程序 - 主题变量配置
+ * 用于 uView Plus UI 主题定制
+ */
+.wrong-container.data-v-995587de {
+  min-height: 100vh;
+  background-color: #f5f5f5;
+}
+.stats-card.data-v-995587de {
+  display: flex;
+  background: linear-gradient(135deg, #ff6b6b 0%, #ee5a5a 100%);
+  margin: 20rpx;
+  border-radius: 20rpx;
+  padding: 40rpx 20rpx;
+}
+.stats-card .stats-item.data-v-995587de {
+  flex: 1;
+  text-align: center;
+  color: #fff;
+}
+.stats-card .stats-item .stats-num.data-v-995587de {
+  display: block;
+  font-size: 48rpx;
+  font-weight: bold;
+  margin-bottom: 12rpx;
+}
+.stats-card .stats-item .stats-label.data-v-995587de {
+  display: block;
+  font-size: 24rpx;
+  opacity: 0.9;
+}
+.wrong-list-section.data-v-995587de {
+  background: #fff;
+  margin: 0 20rpx;
+  border-radius: 20rpx;
+  overflow: hidden;
+}
+.wrong-list-section .section-header.data-v-995587de {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30rpx;
+  border-bottom: 1rpx solid #f0f0f0;
+}
+.wrong-list-section .section-header .section-title.data-v-995587de {
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #333;
+}
+.wrong-list-section .section-header .clear-btn.data-v-995587de {
+  font-size: 26rpx;
+  color: #ff4d4f;
+}
+.wrong-scroll.data-v-995587de {
+  height: calc(100vh - 300rpx);
+}
+.wrong-list.data-v-995587de {
+  padding: 20rpx;
+}
+.wrong-list .wrong-item.data-v-995587de {
+  background: #fff;
+  border: 1rpx solid #f0f0f0;
+  border-radius: 16rpx;
+  padding: 24rpx;
+  margin-bottom: 20rpx;
+}
+.wrong-list .wrong-item.data-v-995587de:active {
+  background: #f9f9f9;
+}
+.wrong-list .wrong-item .item-header.data-v-995587de {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16rpx;
+}
+.wrong-list .wrong-item .item-header .category-tag.data-v-995587de {
+  background: #e3f2fd;
+  color: #2979ff;
+  font-size: 22rpx;
+  padding: 6rpx 16rpx;
+  border-radius: 6rpx;
+}
+.wrong-list .wrong-item .item-header .wrong-time.data-v-995587de {
+  font-size: 24rpx;
+  color: #999;
+}
+.wrong-list .wrong-item .question-title.data-v-995587de {
+  display: block;
+  font-size: 30rpx;
+  color: #333;
+  line-height: 1.5;
+  margin-bottom: 20rpx;
+}
+.wrong-list .wrong-item .item-footer .wrong-answer.data-v-995587de, .wrong-list .wrong-item .item-footer .correct-answer.data-v-995587de {
+  display: flex;
+  margin-bottom: 12rpx;
+}
+.wrong-list .wrong-item .item-footer .wrong-answer .label.data-v-995587de, .wrong-list .wrong-item .item-footer .correct-answer .label.data-v-995587de {
+  font-size: 26rpx;
+  color: #666;
+}
+.wrong-list .wrong-item .item-footer .wrong-answer .value.data-v-995587de, .wrong-list .wrong-item .item-footer .correct-answer .value.data-v-995587de {
+  font-size: 26rpx;
+  font-weight: bold;
+  margin-left: 8rpx;
+}
+.wrong-list .wrong-item .item-footer .wrong-answer .value.wrong.data-v-995587de, .wrong-list .wrong-item .item-footer .correct-answer .value.wrong.data-v-995587de {
+  color: #ff4d4f;
+}
+.wrong-list .wrong-item .item-footer .wrong-answer .value.correct.data-v-995587de, .wrong-list .wrong-item .item-footer .correct-answer .value.correct.data-v-995587de {
+  color: #52c41a;
+}
+.wrong-list .wrong-item .item-footer .item-actions.data-v-995587de {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20rpx;
+  padding-top: 20rpx;
+  border-top: 1rpx solid #f0f0f0;
+}
+.wrong-list .wrong-item .item-footer .item-actions .action-btn.data-v-995587de {
+  font-size: 26rpx;
+  padding: 10rpx 24rpx;
+  border-radius: 8rpx;
+  margin-left: 20rpx;
+}
+.wrong-list .wrong-item .item-footer .item-actions .action-btn.review-btn.data-v-995587de {
+  background: #e8f5e9;
+  color: #4caf50;
+}
+.wrong-list .wrong-item .item-footer .item-actions .action-btn.delete-btn.data-v-995587de {
+  background: #ffebee;
+  color: #f44336;
+}
+.empty-state.data-v-995587de {
+  text-align: center;
+  padding: 100rpx 40rpx;
+}
+.empty-state .empty-icon.data-v-995587de {
+  font-size: 120rpx;
+  display: block;
+  margin-bottom: 20rpx;
+}
+.empty-state .empty-text.data-v-995587de {
+  display: block;
+  font-size: 36rpx;
+  color: #333;
+  margin-bottom: 16rpx;
+}
+.empty-state .empty-desc.data-v-995587de {
+  display: block;
+  font-size: 28rpx;
+  color: #999;
+  margin-bottom: 40rpx;
+}
+.empty-state .practice-btn.data-v-995587de {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+  font-size: 30rpx;
+  padding: 20rpx 60rpx;
+  border-radius: 40rpx;
+}
+.empty-state .practice-btn.data-v-995587de::after {
+  border: none;
+}
